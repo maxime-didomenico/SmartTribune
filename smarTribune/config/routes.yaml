@@ -1,0 +1,7 @@
+controllers:
+    resource: ../src/Controller/
+    type: attribute
+
+api_puppeteer:
+    resource: App\Controller\PuppeteerApiController
+    type: annotation
